@@ -1,16 +1,31 @@
-### E ai! sou o Fabricio =D
+# 👋 Olá, eu sou Fabrício Tenorio
 
+Desenvolvedor em formação com foco em **Java**.  
+Atualmente estudando Programação Orientada a Objetos e desenvolvimento backend.
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fabriciotenoriio/)
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-tenorio-390261209/)
+---
 
+## 💻 Tecnologias
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabriciotenorio&show_icons=true&theme=dracula)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-### Tecnologias que eu utilizo no meu dia a dia de estudo.
+---
 
-<div style="display: inline_block"><br/>
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)/>
-</div>
+## 📌 Sobre mim
 
-Amo essa nova fase da minha vida!
+Estudando Java e aprimorando lógica de programação.  
+Busco evoluir constantemente e aplicar meus conhecimentos em projetos práticos.
+
+---
+
+## 🔗 Contato
+
+- LinkedIn: www.linkedin.com/in/fabricio-tenorio-2943363b7
+
+---
+
+## 🚀 Próximos passos
+
+- Criar projetos em Java para fortalecer portfólio  
+- Estudar conceitos avançados de POO e backend  
+- Aplicar em desafios e práticas de desenvolvimento
